@@ -12,7 +12,7 @@ public class test {
 		
 		int size = file.nextInt();
 		int[][] array = new int[size][size];
-		
+		file.close();
 		System.out.println();
 		
 		
